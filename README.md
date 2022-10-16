@@ -1,4 +1,4 @@
-# About this file.
+# About this file
 Lately I converted both of my Anet A8 Plus printers to be driven by Klipper through Raspberry PI micro computers running Mainsail.
 As there doesn't really exist a printer.cfg file for those type of printers I decided to write my own.
 
